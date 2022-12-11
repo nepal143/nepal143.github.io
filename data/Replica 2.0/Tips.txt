@@ -1,0 +1,8 @@
+Visit for reference : https://fontawesome.com/ 
+
+Color Scheme: Use "color picker web extension" to get the color of elements.
+
+Icons : Use font awesome to insert icons in the website.
+
+Responsive : Make sure design is responsive as it would be considered while evaluation. (Bootstrap , Media Queries)
+
